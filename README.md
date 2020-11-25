@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**HoangKimDuc/HoangKimDuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/vuetifyjs/vuetify/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/static/v1?label=%20&message=Flutter&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI1MDAiIHZpZXdCb3g9Ii4yOSAuMjIgNzcuMjYgOTUuNzUiIHdpZHRoPSIyMDE0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PHBhdGggZD0ibTQ4Ljc1IDk1Ljk3LTI1LjkxLTI1Ljc0IDE0LjMyLTE0LjU3IDQwLjM5IDQwLjMxeiIgZmlsbD0iIzAyNTM5YSIvPjxnIGZpbGw9IiM0NWQxZmQiPjxwYXRoIGQ9Im0yMi41MiA3MC4yNSAyNS42OC0yNS42OGgyOC44N2wtMzkuOTUgMzkuOTV6IiBmaWxsLW9wYWNpdHk9Ii44NSIvPjxwYXRoIGQ9Im0uMjkgNDcuODUgMTQuNTggMTQuNTcgNjIuMi02Mi4yaC0yOS4wMnoiLz48L2c+PC9nPjwvc3ZnPg==&style=flat&labelColor=fff&color=fff" alt="Flutter">
+  </a>
+  <a href="https://github.com/vuetifyjs/vuetify/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/static/v1?label=%20&message=Vue.js&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyMTU4IiB2aWV3Qm94PSIwIDAgMjU2IDIyMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij48cGF0aCBkPSJNMjA0LjggMEgyNTZMMTI4IDIyMC44IDAgMGg5Ny45MkwxMjggNTEuMiAxNTcuNDQgMGg0Ny4zNnoiIGZpbGw9IiM0MUI4ODMiLz48cGF0aCBkPSJNMCAwbDEyOCAyMjAuOEwyNTYgMGgtNTEuMkwxMjggMTMyLjQ4IDUwLjU2IDBIMHoiIGZpbGw9IiM0MUI4ODMiLz48cGF0aCBkPSJNNTAuNTYgMEwxMjggMTMzLjEyIDIwNC44IDBoLTQ3LjM2TDEyOCA1MS4yIDk3LjkyIDBINTAuNTZ6IiBmaWxsPSIjMzU0OTVFIi8+PC9zdmc+&style=flat&labelColor=fff&color=fff" alt="Vue.js">
+  </a>
+  <a href="https://github.com/vuetifyjs/vuetify/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/static/v1?label=%20&message=Nuxt.js&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgMjk4Ij48ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGZpbGw9IiMwMEM1OEUiIGQ9Ik0yMjcuOTIwOTkgODIuMDc0MDdsLTEzLjY4ODkgMjMuNzAzNy00Ni44MTQ4LTgxLjA4NjQxTDIzLjcwMzcgMjczLjU4MDI1aDk3LjMwMzdjMCAxMy4wOTEyIDEwLjYxMjUyIDIzLjcwMzcgMjMuNzAzNzEgMjMuNzAzN0gyMy43MDM3MWMtOC40Njc3MSAwLTE2LjI5MTQ1LTQuNTIwMTctMjAuNTI0Ni0xMS44NTM4Mi00LjIzMzE1LTcuMzMzNjYtNC4yMzI3Mi0xNi4zNjg0OS4wMDExNC0yMy43MDE3NEwxNDYuODkzODMgMTIuODM5NTFjNC4yMzQxNS03LjMzNDMzIDEyLjA1OTYtMTEuODUyNTIgMjAuNTI4NC0xMS44NTI1MiA4LjQ2ODc4IDAgMTYuMjk0MjMgNC41MTgxOSAyMC41MjgzOSAxMS44NTI1MmwzOS45NzAzNyA2OS4yMzQ1NnoiLz48cGF0aCBmaWxsPSIjMkY0OTVFIiBkPSJNMzMxLjY2NDIgMjYxLjcyODRsLTkwLjA1NDMyLTE1NS45NTA2Mi0xMy42ODg5LTIzLjcwMzctMTMuNjg4ODggMjMuNzAzNy05MC4wNDQ0NSAxNTUuOTUwNjFjLTQuMjMzODUgNy4zMzMyNS00LjIzNDI4IDE2LjM2ODA4LS4wMDExMyAyMy43MDE3NCA0LjIzMzE0IDcuMzMzNjUgMTIuMDU2ODkgMTEuODUzODIgMjAuNTI0NiAxMS44NTM4MmgxNjYuNGM4LjQ2OTQ2IDAgMTYuMjk2NDQtNC41MTUyNSAyMC41MzItMTEuODQ5NTUgNC4yMzU1NS03LjMzNDMgNC4yMzYwNi0xNi4zNzEyMy4wMDEzMi0yMy43MDZoLjAxOTc2ek0xNDQuNzExMSAyNzMuNTgwMjRMMjI3LjkyMSAxMjkuNDgxNDhsODMuMTkwMTIgMTQ0LjA5ODc3aC0xNjYuNHoiLz48cGF0aCBmaWxsPSIjMTA4Nzc1IiBkPSJNMzk2LjA0OTM4IDI4NS40MzIxYy00LjIzMzQ0IDcuMzMyNTQtMTIuMDU2NTYgMTEuODUxODUtMjAuNTIzNDUgMTEuODUxODVIMzExLjExMTFjMTMuMDkxMiAwIDIzLjcwMzctMTAuNjEyNSAyMy43MDM3LTIzLjcwMzdoNDAuNjYxNzNMMjYwLjA5ODc3IDczLjc0ODE1bC0xOC40ODg5IDMyLjAyOTYzLTEzLjY4ODg4LTIzLjcwMzdMMjM5LjU3NTMgNjEuODk2M2M0LjIzNDE2LTcuMzM0MzMgMTIuMDU5Ni0xMS44NTI1MiAyMC41Mjg0LTExLjg1MjUyIDguNDY4NzkgMCAxNi4yOTQyMyA0LjUxODE5IDIwLjUyODM5IDExLjg1MjUybDExNS40MTcyOCAxOTkuODMyMWM0LjIzNDI2IDcuMzMzOTUgNC4yMzQyNiAxNi4zNjk3NSAwIDIzLjcwMzd6Ii8+PC9nPjwvc3ZnPg==&style=flat&labelColor=fff&color=fff" alt="Nuxt.js">
+  </a>
+  <a href="https://github.com/vuetifyjs/vuetify/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/static/v1?label=%20&message=Vuetify.js&style=flat&labelColor=fff&color=fff&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQ0IiBoZWlnaHQ9IjM5MyIgdmlld0JveD0iMCAwIDM0NCAzOTMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xNzEuNzIzIDE4OS40ODVMOTEuNDg3OCAwLjAwNzkzNDU3SDE3MS43MjNWMTg5LjQ4NVoiIGZpbGw9IiMxNjk3RjYiLz4KPHBhdGggZD0iTTg5Ljk0OTUgNTcuMTk3NkgwTDE3MS43MjMgMzkyLjE1OFYyNDUuMTA3TDg5Ljk0OTUgNTcuMTk3NloiIGZpbGw9IiM3QkM2RkYiLz4KPHBhdGggZD0iTTE3MS43MjMgMEwxNzEuNzIzIDE4OS40ODVMMjUxLjk1NSAwLjAwNzk1Mjc3SDE3MS43MjMiIGZpbGw9IiMxODY3QzAiLz4KPHBhdGggZD0iTTI1My40ODcgNTcuMTk3NkgzNDMuNDM2TDE3MS43MjMgMzkyLjE1OFYyNDUuMTA3TDI1My40ODcgNTcuMTk3NloiIGZpbGw9IiNBRURERkYiLz4KPC9zdmc+Cg==" alt="Vuetify.js">
+ <a href="https://github.com/vuetifyjs/vuetify/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/static/v1?label=%20&message=JavaScript&style=flat&labelColor=fff&color=fff&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MzAgNjMwIj4KPHJlY3Qgd2lkdGg9IjYzMCIgaGVpZ2h0PSI2MzAiIGZpbGw9IiNmN2RmMWUiLz4KPHBhdGggZD0ibTQyMy4yIDQ5Mi4xOWMxMi42OSAyMC43MiAyOS4yIDM1Ljk1IDU4LjQgMzUuOTUgMjQuNTMgMCA0MC4yLTEyLjI2IDQwLjItMjkuMiAwLTIwLjMtMTYuMS0yNy40OS00My4xLTM5LjNsLTE0LjgtNi4zNWMtNDIuNzItMTguMi03MS4xLTQxLTcxLjEtODkuMiAwLTQ0LjQgMzMuODMtNzguMiA4Ni43LTc4LjIgMzcuNjQgMCA2NC43IDEzLjEgODQuMiA0Ny40bC00Ni4xIDI5LjZjLTEwLjE1LTE4LjItMjEuMS0yNS4zNy0zOC4xLTI1LjM3LTE3LjM0IDAtMjguMzMgMTEtMjguMzMgMjUuMzcgMCAxNy43NiAxMSAyNC45NSAzNi40IDM1Ljk1bDE0LjggNi4zNGM1MC4zIDIxLjU3IDc4LjcgNDMuNTYgNzguNyA5MyAwIDUzLjMtNDEuODcgODIuNS05OC4xIDgyLjUtNTQuOTggMC05MC41LTI2LjItMTA3Ljg4LTYwLjU0em0tMjA5LjEzIDUuMTNjOS4zIDE2LjUgMTcuNzYgMzAuNDUgMzguMSAzMC40NSAxOS40NSAwIDMxLjcyLTcuNjEgMzEuNzItMzcuMnYtMjAxLjNoNTkuMnYyMDIuMWMwIDYxLjMtMzUuOTQgODkuMi04OC40IDg5LjItNDcuNCAwLTc0Ljg1LTI0LjUzLTg4LjgxLTU0LjA3NXoiLz4KPC9zdmc+" alt="Javascript">
+  </a>
+  <a href="https://github.com/vuetifyjs/vuetify/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/static/v1?label=%20&message=Adonis.js&style=flat&labelColor=fff&color=fff&logo=adonisjs&logoColor=220052" alt="Adonis.js">
+  </a>
+   <a href="https://github.com/vuetifyjs/vuetify/actions?query=workflow%3ACI">
+    <img src="https://img.shields.io/static/v1?label=%20&message=Laravel&style=flat&labelColor=fff&color=fff&logo=laravel&logoColor=FF2D20" alt="Laravel">
+  </a>
+</p>
